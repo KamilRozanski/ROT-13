@@ -41,6 +41,3 @@ function twoRot13(str) {
     return str.split('').map(translate).join('');
 }
 console.log(twoRot13("3pRZEPROGRAMOWANI"))
-
-
-//   dsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdfdsdfsfffffdfdf
